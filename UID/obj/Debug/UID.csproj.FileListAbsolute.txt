@@ -1,0 +1,10 @@
+P:\UID\UID\bin\Debug\UID.exe.config
+P:\UID\UID\bin\Debug\UID.exe
+P:\UID\UID\bin\Debug\UID.pdb
+P:\UID\UID\obj\Debug\UID.csproj.AssemblyReference.cache
+P:\UID\UID\obj\Debug\UID.Form1.resources
+P:\UID\UID\obj\Debug\UID.Properties.Resources.resources
+P:\UID\UID\obj\Debug\UID.csproj.GenerateResource.cache
+P:\UID\UID\obj\Debug\UID.csproj.CoreCompileInputs.cache
+P:\UID\UID\obj\Debug\UID.exe
+P:\UID\UID\obj\Debug\UID.pdb
